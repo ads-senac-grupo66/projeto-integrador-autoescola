@@ -1,0 +1,301 @@
+﻿ID_Aula;Data;Mes ;Aluno;Instrutor;Cidade;Quantidade_Aulas;Avaliacao;Perfil
+1;01/01/2025;Janeiro;Amanda Costa Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;1;2;Insatisfeito
+2;02/01/2025;Janeiro;Vinicius Martins Lima;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+3;03/01/2025;Janeiro;Camila Pereira Costa;Luciana Carvalho Lima;Guarulhos;2;2;Insatisfeito
+4;04/01/2025;Janeiro;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+5;05/01/2025;Janeiro;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+6;07/01/2025;Janeiro;Guilherme Martins Silva;Pedro Ferreira Santos;São Paulo;3;3;Neutro
+7;08/01/2025;Janeiro;Maria Eduarda Pereira Lima;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+8;09/01/2025;Janeiro;Ana Clara Oliveira;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+9;10/01/2025;Janeiro;Heloisa Martins Silva;Daniela Pereira Silva;São Gonçalo;3;3;Neutro
+10;11/01/2025;Janeiro;Enzo Lima Oliveira;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+11;13/01/2025;Janeiro;Matheus Oliveira Costa;Gustavo Almeida Costa;Duque de Caxias;3;3;Neutro
+12;14/01/2025;Janeiro;Breno Ribeiro Santos;Pedro Ferreira Santos;São Paulo;3;3;Neutro
+13;15/01/2025;Janeiro;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;5;5;Muito Satisfeito
+14;16/01/2025;Janeiro;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+15;18/01/2025;Janeiro;Luiza Rodrigues Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;3;3;Neutro
+16;19/01/2025;Janeiro;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+17;20/01/2025;Janeiro;Guilherme Martins Silva;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+18;21/01/2025;Janeiro;Amanda Costa Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+19;22/01/2025;Janeiro;Rafaela Costa Oliveira;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+20;24/01/2025;Janeiro;Maria Eduarda Pereira Lima;Luciana Carvalho Lima;Guarulhos;3;3;Neutro
+21;25/01/2025;Janeiro;Nicolas Ribeiro Santos;Gustavo Almeida Costa;Duque de Caxias;1;1;Muito Insatisfeito
+22;26/01/2025;Janeiro;Maria Eduarda Pereira Lima;Luciana Carvalho Lima;Guarulhos;5;5;Muito Satisfeito
+23;27/01/2025;Janeiro;Nicole Rodrigues Lima;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+24;29/01/2025;Janeiro;Rafael Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;3;3;Neutro
+25;30/01/2025;Janeiro;Marina Ribeiro Almeida;Daniela Pereira Silva;São Gonçalo;2;2;Insatisfeito
+26;31/01/2025;Janeiro;Rafaela Costa Oliveira;Luciana Carvalho Lima;Guarulhos;3;3;Neutro
+27;01/02/2025;Fevereiro;Larissa Oliveira Rocha;Fabiana Rodrigues Moraes;Nova Iguaçu;4;4;Satisfeito
+28;02/02/2025;Fevereiro;Mariana Santos Oliveira;Daniela Pereira Silva;São Gonçalo;5;5;Muito Satisfeito
+29;04/02/2025;Fevereiro;Arthur Fernandes Costa;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+30;05/02/2025;Fevereiro;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+31;06/02/2025;Fevereiro;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+32;07/02/2025;Fevereiro;Nicolas Fernandes Souza;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+33;08/02/2025;Fevereiro;Davi Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;4;4;Satisfeito
+34;10/02/2025;Fevereiro;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+35;11/02/2025;Fevereiro;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+36;12/02/2025;Fevereiro;Vinicius Martins Lima;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+37;13/02/2025;Fevereiro;Camila Pereira Costa;Luciana Carvalho Lima;Guarulhos;1;1;Muito Insatisfeito
+38;15/02/2025;Fevereiro;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+39;16/02/2025;Fevereiro;Giulia Rocha Pereira;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+40;17/02/2025;Fevereiro;Lara Almeida Santos;Luciana Carvalho Lima;Guarulhos;2;2;Insatisfeito
+41;18/02/2025;Fevereiro;Lucas Pereira Rocha;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+42;19/02/2025;Fevereiro;Cauã Rodrigues Silva;Gustavo Almeida Costa;Duque de Caxias;2;2;Insatisfeito
+43;21/02/2025;Fevereiro;Lucas Pereira Rocha;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+44;22/02/2025;Fevereiro;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+45;23/02/2025;Fevereiro;Beatriz Moraes Silva;Fabiana Rodrigues Moraes;Nova Iguaçu;3;3;Neutro
+46;24/02/2025;Fevereiro;Matheus Oliveira Costa;Gustavo Almeida Costa;Duque de Caxias;2;2;Insatisfeito
+47;26/02/2025;Fevereiro;Pedro Carvalho Oliveira;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+48;27/02/2025;Fevereiro;Nicole Rodrigues Lima;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+49;28/02/2025;Fevereiro;Samuel Martins Santos;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+50;01/03/2025;Março;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;2;2;Insatisfeito
+51;02/03/2025;Março;Lara Almeida Santos;Luciana Carvalho Lima;Guarulhos;5;5;Muito Satisfeito
+52;04/03/2025;Março;Giovanna Ribeiro Costa;Gustavo Oliveira Ribeiro;Rio de Janeiro;1;1;Muito Insatisfeito
+53;05/03/2025;Março;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+54;06/03/2025;Março;Larissa Oliveira Rocha;Fabiana Rodrigues Moraes;Nova Iguaçu;4;4;Satisfeito
+55;07/03/2025;Março;Enzo Lima Oliveira;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+56;08/03/2025;Março;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;5;5;Muito Satisfeito
+57;10/03/2025;Março;Laura Almeida Rocha;Daniela Pereira Silva;São Gonçalo;5;5;Muito Satisfeito
+58;11/03/2025;Março;Davi Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;2;2;Insatisfeito
+59;12/03/2025;Março;Marina Ribeiro Almeida;Daniela Pereira Silva;São Gonçalo;4;4;Satisfeito
+60;13/03/2025;Março;Lucas Pereira Martins;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+61;15/03/2025;Março;Ana Clara Oliveira;Gustavo Oliveira Ribeiro;Rio de Janeiro;5;5;Muito Satisfeito
+62;16/03/2025;Março;Maria Eduarda Pereira Lima;Luciana Carvalho Lima;Guarulhos;3;3;Neutro
+63;17/03/2025;Março;Nicolas Fernandes Souza;Alana Souza Martins;Belo Horizonte;5;5;Muito Satisfeito
+64;18/03/2025;Março;Maria Eduarda Pereira Lima;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+65;19/03/2025;Março;Vinicius Martins Lima;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+66;21/03/2025;Março;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+67;22/03/2025;Março;Mariana Santos Oliveira;Daniela Pereira Silva;São Gonçalo;2;2;Insatisfeito
+68;23/03/2025;Março;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+69;24/03/2025;Março;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+70;26/03/2025;Março;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;3;3;Neutro
+71;27/03/2025;Março;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+72;28/03/2025;Março;Henrique Rodrigues Santos;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+73;29/03/2025;Março;Guilherme Martins Silva;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+74;30/03/2025;Março;Samuel Martins Santos;Pedro Ferreira Santos;São Paulo;3;3;Neutro
+75;01/04/2025;Abril;Giovanna Ribeiro Costa;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+76;02/04/2025;Abril;Pietro Costa Fernandes;Gustavo Almeida Costa;Duque de Caxias;4;4;Satisfeito
+77;03/04/2025;Abril;Davi Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;1;1;Muito Insatisfeito
+78;04/04/2025;Abril;Lara Almeida Santos;Luciana Carvalho Lima;Guarulhos;1;1;Muito Insatisfeito
+79;05/04/2025;Abril;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;5;5;Muito Satisfeito
+80;07/04/2025;Abril;Samuel Martins Santos;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+81;08/04/2025;Abril;Vinicius Martins Lima;Alana Souza Martins;Belo Horizonte;5;5;Muito Satisfeito
+82;09/04/2025;Abril;Enzo Lima Oliveira;Gerson Fernandes Rocha;Campinas;3;3;Neutro
+83;10/04/2025;Abril;Victor Souza Carvalho;Alana Souza Martins;Belo Horizonte;1;1;Muito Insatisfeito
+84;12/04/2025;Abril;Lucas Pereira Rocha;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+85;13/04/2025;Abril;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+86;14/04/2025;Abril;Lucas Pereira Martins;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+87;15/04/2025;Abril;Nicolas Fernandes Souza;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+88;16/04/2025;Abril;Breno Ribeiro Santos;Pedro Ferreira Santos;São Paulo;5;5;Muito Satisfeito
+89;18/04/2025;Abril;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;3;3;Neutro
+90;19/04/2025;Abril;Nicolas Fernandes Souza;Alana Souza Martins;Belo Horizonte;1;1;Muito Insatisfeito
+91;20/04/2025;Abril;Rafaela Costa Oliveira;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+92;21/04/2025;Abril;Amanda Costa Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+93;23/04/2025;Abril;Sophia Martins Souza;Daniela Pereira Silva;São Gonçalo;3;3;Neutro
+94;24/04/2025;Abril;Breno Ribeiro Santos;Pedro Ferreira Santos;São Paulo;3;3;Neutro
+95;25/04/2025;Abril;Beatriz Moraes Silva;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+96;26/04/2025;Abril;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;2;2;Insatisfeito
+97;27/04/2025;Abril;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+98;29/04/2025;Abril;Pietro Costa Fernandes;Gustavo Almeida Costa;Duque de Caxias;4;4;Satisfeito
+99;30/04/2025;Abril;Lucas Pereira Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+100;01/05/2025;Maio;Victor Souza Carvalho;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+101;02/05/2025;Maio;Isabela Souza Carvalho;Gustavo Oliveira Ribeiro;Rio de Janeiro;5;5;Muito Satisfeito
+102;03/05/2025;Maio;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+103;05/05/2025;Maio;Henrique Rodrigues Santos;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+104;06/05/2025;Maio;Nicole Rodrigues Lima;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+105;07/05/2025;Maio;Ana Clara Oliveira;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+106;08/05/2025;Maio;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+107;10/05/2025;Maio;Lucas Pereira Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+108;11/05/2025;Maio;Davi Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;4;4;Satisfeito
+109;12/05/2025;Maio;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+110;13/05/2025;Maio;Giulia Rocha Pereira;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+111;14/05/2025;Maio;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+112;16/05/2025;Maio;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+113;17/05/2025;Maio;Lara Almeida Santos;Luciana Carvalho Lima;Guarulhos;5;5;Muito Satisfeito
+114;18/05/2025;Maio;Arthur Fernandes Costa;Pedro Ferreira Santos;São Paulo;2;2;Insatisfeito
+115;19/05/2025;Maio;Breno Ribeiro Santos;Pedro Ferreira Santos;São Paulo;3;3;Neutro
+116;21/05/2025;Maio;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;3;3;Neutro
+117;22/05/2025;Maio;Victor Souza Carvalho;Alana Souza Martins;Belo Horizonte;1;1;Muito Insatisfeito
+118;23/05/2025;Maio;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;3;3;Neutro
+119;24/05/2025;Maio;Victor Souza Carvalho;Alana Souza Martins;Belo Horizonte;4;4;Satisfeito
+120;25/05/2025;Maio;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+121;27/05/2025;Maio;Mariana Santos Oliveira;Daniela Pereira Silva;São Gonçalo;3;3;Neutro
+122;28/05/2025;Maio;Ana Clara Oliveira;Gustavo Oliveira Ribeiro;Rio de Janeiro;1;1;Muito Insatisfeito
+123;29/05/2025;Maio;Guilherme Martins Silva;Pedro Ferreira Santos;São Paulo;5;5;Muito Satisfeito
+124;30/05/2025;Maio;Luiza Rodrigues Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+125;31/05/2025;Maio;Victor Souza Carvalho;Alana Souza Martins;Belo Horizonte;5;5;Muito Satisfeito
+126;02/06/2025;Junho;Pietro Costa Fernandes;Gustavo Almeida Costa;Duque de Caxias;2;2;Insatisfeito
+127;03/06/2025;Junho;Gabriel Costa Silva;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+128;04/06/2025;Junho;Amanda Costa Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;3;3;Neutro
+129;05/06/2025;Junho;Melissa Pereira Souza;Gustavo Oliveira Ribeiro;Rio de Janeiro;5;5;Muito Satisfeito
+130;07/06/2025;Junho;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;2;2;Insatisfeito
+131;08/06/2025;Junho;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+132;09/06/2025;Junho;Pietro Costa Fernandes;Gustavo Almeida Costa;Duque de Caxias;3;3;Neutro
+133;10/06/2025;Junho;Maria Eduarda Pereira Lima;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+134;11/06/2025;Junho;Heloisa Martins Silva;Daniela Pereira Silva;São Gonçalo;2;2;Insatisfeito
+135;13/06/2025;Junho;Matheus Oliveira Costa;Gustavo Almeida Costa;Duque de Caxias;5;5;Muito Satisfeito
+136;14/06/2025;Junho;Pedro Carvalho Oliveira;Pedro Ferreira Santos;São Paulo;2;2;Insatisfeito
+137;15/06/2025;Junho;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+138;16/06/2025;Junho;Giulia Rocha Pereira;Gustavo Oliveira Ribeiro;Rio de Janeiro;1;1;Muito Insatisfeito
+139;18/06/2025;Junho;Lucas Pereira Martins;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+140;19/06/2025;Junho;Beatriz Moraes Silva;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+141;20/06/2025;Junho;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+142;21/06/2025;Junho;Laura Almeida Rocha;Daniela Pereira Silva;São Gonçalo;3;3;Neutro
+143;22/06/2025;Junho;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+144;24/06/2025;Junho;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;1;1;Muito Insatisfeito
+145;25/06/2025;Junho;Rafaela Costa Oliveira;Luciana Carvalho Lima;Guarulhos;5;5;Muito Satisfeito
+146;26/06/2025;Junho;Sophia Fernandes Oliveira;Daniela Pereira Silva;São Gonçalo;2;2;Insatisfeito
+147;27/06/2025;Junho;Davi Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;4;4;Satisfeito
+148;28/06/2025;Junho;Lucas Pereira Martins;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+149;30/06/2025;Junho;Laura Almeida Rocha;Daniela Pereira Silva;São Gonçalo;2;2;Insatisfeito
+150;01/07/2025;Julho;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+151;02/07/2025;Julho;Maria Eduarda Pereira Lima;Luciana Carvalho Lima;Guarulhos;3;3;Neutro
+152;03/07/2025;Julho;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+153;05/07/2025;Julho;Rafael Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;3;3;Neutro
+154;06/07/2025;Julho;Lucas Pereira Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+155;07/07/2025;Julho;Maria Eduarda Pereira Lima;Luciana Carvalho Lima;Guarulhos;1;1;Muito Insatisfeito
+156;08/07/2025;Julho;Cauã Rodrigues Silva;Gustavo Almeida Costa;Duque de Caxias;3;3;Neutro
+157;09/07/2025;Julho;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+158;11/07/2025;Julho;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+159;12/07/2025;Julho;Gabriel Costa Silva;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+160;13/07/2025;Julho;Davi Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;1;1;Muito Insatisfeito
+161;14/07/2025;Julho;Rafael Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;1;1;Muito Insatisfeito
+162;16/07/2025;Julho;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;3;3;Neutro
+163;17/07/2025;Julho;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+164;18/07/2025;Julho;Matheus Oliveira Costa;Gustavo Almeida Costa;Duque de Caxias;5;5;Muito Satisfeito
+165;19/07/2025;Julho;Marina Ribeiro Almeida;Daniela Pereira Silva;São Gonçalo;3;3;Neutro
+166;20/07/2025;Julho;Henrique Rodrigues Santos;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+167;22/07/2025;Julho;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+168;23/07/2025;Julho;Henrique Rodrigues Santos;Gerson Fernandes Rocha;Campinas;3;3;Neutro
+169;24/07/2025;Julho;Samuel Martins Santos;Pedro Ferreira Santos;São Paulo;2;2;Insatisfeito
+170;25/07/2025;Julho;Laura Almeida Rocha;Daniela Pereira Silva;São Gonçalo;1;1;Muito Insatisfeito
+171;26/07/2025;Julho;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+172;28/07/2025;Julho;Pietro Costa Fernandes;Gustavo Almeida Costa;Duque de Caxias;5;5;Muito Satisfeito
+173;29/07/2025;Julho;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;1;1;Muito Insatisfeito
+174;30/07/2025;Julho;Murilo Costa Santos;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+175;31/07/2025;Julho;Nicole Rodrigues Lima;Gustavo Oliveira Ribeiro;Rio de Janeiro;5;5;Muito Satisfeito
+176;02/08/2025;Agosto;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+177;03/08/2025;Agosto;Murilo Costa Santos;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+178;04/08/2025;Agosto;Rafaela Costa Oliveira;Luciana Carvalho Lima;Guarulhos;3;3;Neutro
+179;05/08/2025;Agosto;Larissa Oliveira Rocha;Fabiana Rodrigues Moraes;Nova Iguaçu;4;4;Satisfeito
+180;06/08/2025;Agosto;Melissa Pereira Souza;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+181;08/08/2025;Agosto;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+182;09/08/2025;Agosto;Isabela Souza Carvalho;Gustavo Oliveira Ribeiro;Rio de Janeiro;5;5;Muito Satisfeito
+183;10/08/2025;Agosto;Samuel Martins Santos;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+184;11/08/2025;Agosto;Ana Clara Oliveira;Gustavo Oliveira Ribeiro;Rio de Janeiro;5;5;Muito Satisfeito
+185;13/08/2025;Agosto;João Pedro Rocha Silva;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+186;14/08/2025;Agosto;Giulia Rocha Pereira;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+187;15/08/2025;Agosto;Henrique Rodrigues Santos;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+188;16/08/2025;Agosto;Mariana Santos Oliveira;Daniela Pereira Silva;São Gonçalo;4;4;Satisfeito
+189;17/08/2025;Agosto;Lucas Pereira Martins;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+190;19/08/2025;Agosto;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+191;20/08/2025;Agosto;Sophia Fernandes Oliveira;Daniela Pereira Silva;São Gonçalo;4;4;Satisfeito
+192;21/08/2025;Agosto;Lara Almeida Santos;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+193;22/08/2025;Agosto;Giovanna Ribeiro Costa;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+194;23/08/2025;Agosto;Isabela Souza Carvalho;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+195;25/08/2025;Agosto;Cauã Rodrigues Silva;Gustavo Almeida Costa;Duque de Caxias;1;1;Muito Insatisfeito
+196;26/08/2025;Agosto;Beatriz Moraes Silva;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+197;27/08/2025;Agosto;Gabriel Costa Silva;Alana Souza Martins;Belo Horizonte;4;4;Satisfeito
+198;28/08/2025;Agosto;Lara Almeida Santos;Luciana Carvalho Lima;Guarulhos;3;3;Neutro
+199;30/08/2025;Agosto;João Pedro Rocha Silva;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+200;31/08/2025;Agosto;Henrique Rodrigues Santos;Gerson Fernandes Rocha;Campinas;2;2;Insatisfeito
+201;01/09/2025;Setembro;Lucas Pereira Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+202;02/09/2025;Setembro;Laura Almeida Rocha;Daniela Pereira Silva;São Gonçalo;4;4;Satisfeito
+203;03/09/2025;Setembro;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+204;05/09/2025;Setembro;Gabriel Costa Silva;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+205;06/09/2025;Setembro;Beatriz Moraes Silva;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+206;07/09/2025;Setembro;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+207;08/09/2025;Setembro;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+208;10/09/2025;Setembro;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;1;1;Muito Insatisfeito
+209;11/09/2025;Setembro;Isabela Souza Carvalho;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+210;12/09/2025;Setembro;Nicolas Fernandes Souza;Alana Souza Martins;Belo Horizonte;1;1;Muito Insatisfeito
+211;13/09/2025;Setembro;Sophia Martins Souza;Daniela Pereira Silva;São Gonçalo;3;3;Neutro
+212;14/09/2025;Setembro;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;2;2;Insatisfeito
+213;16/09/2025;Setembro;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+214;17/09/2025;Setembro;Heloisa Martins Silva;Daniela Pereira Silva;São Gonçalo;2;2;Insatisfeito
+215;18/09/2025;Setembro;Julia Fernandes Lima;Luciana Carvalho Lima;Guarulhos;4;4;Satisfeito
+216;19/09/2025;Setembro;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+217;20/09/2025;Setembro;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+218;22/09/2025;Setembro;Samuel Martins Santos;Pedro Ferreira Santos;São Paulo;3;3;Neutro
+219;23/09/2025;Setembro;Murilo Costa Santos;Pedro Ferreira Santos;São Paulo;5;5;Muito Satisfeito
+220;24/09/2025;Setembro;Gabriel Costa Silva;Alana Souza Martins;Belo Horizonte;1;1;Muito Insatisfeito
+221;25/09/2025;Setembro;Rafael Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;2;2;Insatisfeito
+222;27/09/2025;Setembro;Sophia Fernandes Oliveira;Daniela Pereira Silva;São Gonçalo;5;5;Muito Satisfeito
+223;28/09/2025;Setembro;Victor Souza Carvalho;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+224;29/09/2025;Setembro;Giovanna Ribeiro Costa;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+225;30/09/2025;Setembro;Samuel Martins Santos;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+226;01/10/2025;Outubro;Amanda Costa Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;4;4;Satisfeito
+227;03/10/2025;Outubro;Vinicius Martins Lima;Alana Souza Martins;Belo Horizonte;5;5;Muito Satisfeito
+228;04/10/2025;Outubro;Guilherme Martins Silva;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+229;05/10/2025;Outubro;Arthur Fernandes Costa;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+230;06/10/2025;Outubro;Gabriel Costa Silva;Alana Souza Martins;Belo Horizonte;4;4;Satisfeito
+231;08/10/2025;Outubro;Lucas Pereira Martins;Pedro Ferreira Santos;São Paulo;5;5;Muito Satisfeito
+232;09/10/2025;Outubro;Heitor Carvalho Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+233;10/10/2025;Outubro;Samuel Martins Santos;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+234;11/10/2025;Outubro;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+235;12/10/2025;Outubro;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;5;4;Satisfeito
+236;14/10/2025;Outubro;Giovanna Ribeiro Costa;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+237;15/10/2025;Outubro;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;4;4;Satisfeito
+238;16/10/2025;Outubro;Beatriz Moraes Silva;Fabiana Rodrigues Moraes;Nova Iguaçu;2;2;Insatisfeito
+239;17/10/2025;Outubro;Beatriz Moraes Silva;Fabiana Rodrigues Moraes;Nova Iguaçu;3;3;Neutro
+240;18/10/2025;Outubro;Isabela Souza Carvalho;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+241;20/10/2025;Outubro;Sofia Carvalho Santos;Luciana Carvalho Lima;Guarulhos;2;2;Insatisfeito
+242;21/10/2025;Outubro;Isabela Souza Carvalho;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+243;22/10/2025;Outubro;Sophia Martins Souza;Daniela Pereira Silva;São Gonçalo;3;3;Neutro
+244;23/10/2025;Outubro;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;5;5;Muito Satisfeito
+245;25/10/2025;Outubro;Matheus Oliveira Costa;Gustavo Almeida Costa;Duque de Caxias;1;1;Muito Insatisfeito
+246;26/10/2025;Outubro;Luiza Rodrigues Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+247;27/10/2025;Outubro;Luiza Rodrigues Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+248;28/10/2025;Outubro;Camila Pereira Costa;Luciana Carvalho Lima;Guarulhos;2;2;Insatisfeito
+249;29/10/2025;Outubro;Nicole Rodrigues Lima;Gustavo Oliveira Ribeiro;Rio de Janeiro;1;1;Muito Insatisfeito
+250;31/10/2025;Outubro;Davi Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;5;5;Muito Satisfeito
+251;01/11/2025;Novembro;Felipe Almeida Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+252;02/11/2025;Novembro;Isabela Souza Carvalho;Gustavo Oliveira Ribeiro;Rio de Janeiro;1;1;Muito Insatisfeito
+253;03/11/2025;Novembro;Nicolas Fernandes Souza;Alana Souza Martins;Belo Horizonte;2;2;Insatisfeito
+254;05/11/2025;Novembro;Nicole Rodrigues Lima;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+255;06/11/2025;Novembro;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+256;07/11/2025;Novembro;Isabela Souza Carvalho;Gustavo Oliveira Ribeiro;Rio de Janeiro;4;4;Satisfeito
+257;08/11/2025;Novembro;Pedro Carvalho Oliveira;Pedro Ferreira Santos;São Paulo;4;4;Satisfeito
+258;09/11/2025;Novembro;Pietro Costa Fernandes;Gustavo Almeida Costa;Duque de Caxias;2;2;Insatisfeito
+259;11/11/2025;Novembro;Melissa Pereira Souza;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+260;12/11/2025;Novembro;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+261;13/11/2025;Novembro;Arthur Fernandes Costa;Pedro Ferreira Santos;São Paulo;5;5;Muito Satisfeito
+262;14/11/2025;Novembro;Sofia Carvalho Santos;Luciana Carvalho Lima;Guarulhos;3;3;Neutro
+263;15/11/2025;Novembro;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+264;17/11/2025;Novembro;Beatriz Moraes Silva;Fabiana Rodrigues Moraes;Nova Iguaçu;1;1;Muito Insatisfeito
+265;18/11/2025;Novembro;Cauã Rodrigues Silva;Gustavo Almeida Costa;Duque de Caxias;3;3;Neutro
+266;19/11/2025;Novembro;Rafael Almeida Santos;Gustavo Almeida Costa;Duque de Caxias;5;5;Muito Satisfeito
+267;20/11/2025;Novembro;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+268;22/11/2025;Novembro;Leonardo Pereira Rocha;Gerson Fernandes Rocha;Campinas;4;4;Satisfeito
+269;23/11/2025;Novembro;Sofia Carvalho Santos;Luciana Carvalho Lima;Guarulhos;3;3;Neutro
+270;24/11/2025;Novembro;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;2;2;Insatisfeito
+271;25/11/2025;Novembro;Heloisa Martins Silva;Daniela Pereira Silva;São Gonçalo;5;5;Muito Satisfeito
+272;26/11/2025;Novembro;Gabriela Rodrigues Rocha;Gustavo Oliveira Ribeiro;Rio de Janeiro;1;1;Muito Insatisfeito
+273;28/11/2025;Novembro;Giovanna Ribeiro Costa;Gustavo Oliveira Ribeiro;Rio de Janeiro;1;1;Muito Insatisfeito
+274;29/11/2025;Novembro;Guilherme Martins Silva;Pedro Ferreira Santos;São Paulo;3;3;Neutro
+275;30/11/2025;Novembro;Vinicius Martins Lima;Alana Souza Martins;Belo Horizonte;4;4;Satisfeito
+276;01/12/2025;Dezembro;Heloisa Martins Silva;Daniela Pereira Silva;São Gonçalo;3;3;Neutro
+277;03/12/2025;Dezembro;Sophia Fernandes Oliveira;Daniela Pereira Silva;São Gonçalo;5;5;Muito Satisfeito
+278;04/12/2025;Dezembro;Nicolas Ribeiro Santos;Gustavo Almeida Costa;Duque de Caxias;5;5;Muito Satisfeito
+279;05/12/2025;Dezembro;Murilo Costa Santos;Pedro Ferreira Santos;São Paulo;2;2;Insatisfeito
+280;06/12/2025;Dezembro;Pietro Costa Fernandes;Gustavo Almeida Costa;Duque de Caxias;5;5;Muito Satisfeito
+281;07/12/2025;Dezembro;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;3;3;Neutro
+282;09/12/2025;Dezembro;Mariana Santos Oliveira;Daniela Pereira Silva;São Gonçalo;1;1;Muito Insatisfeito
+283;10/12/2025;Dezembro;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;4;4;Satisfeito
+284;11/12/2025;Dezembro;Miguel Lima Santos;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+285;12/12/2025;Dezembro;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;4;4;Satisfeito
+286;13/12/2025;Dezembro;Lucas Pereira Rocha;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+287;15/12/2025;Dezembro;Nicole Rodrigues Lima;Gustavo Oliveira Ribeiro;Rio de Janeiro;3;3;Neutro
+288;16/12/2025;Dezembro;Laura Almeida Rocha;Daniela Pereira Silva;São Gonçalo;1;1;Muito Insatisfeito
+289;17/12/2025;Dezembro;Vinicius Martins Lima;Alana Souza Martins;Belo Horizonte;4;4;Satisfeito
+290;18/12/2025;Dezembro;Henrique Rodrigues Santos;Gerson Fernandes Rocha;Campinas;1;1;Muito Insatisfeito
+291;20/12/2025;Dezembro;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+292;21/12/2025;Dezembro;Nicolas Fernandes Souza;Alana Souza Martins;Belo Horizonte;3;3;Neutro
+293;22/12/2025;Dezembro;Arthur Fernandes Costa;Pedro Ferreira Santos;São Paulo;1;1;Muito Insatisfeito
+294;23/12/2025;Dezembro;Amanda Costa Lima;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+295;24/12/2025;Dezembro;Yasmin Fernandes Ribeiro;Fabiana Rodrigues Moraes;Nova Iguaçu;5;5;Muito Satisfeito
+296;26/12/2025;Dezembro;Cauã Rodrigues Silva;Gustavo Almeida Costa;Duque de Caxias;3;3;Neutro
+297;27/12/2025;Dezembro;Pietro Costa Fernandes;Gustavo Almeida Costa;Duque de Caxias;4;4;Satisfeito
+298;28/12/2025;Dezembro;João Pedro Rocha Silva;Alana Souza Martins;Belo Horizonte;1;1;Muito Insatisfeito
+299;29/12/2025;Dezembro;Mariana Santos Oliveira;Daniela Pereira Silva;São Gonçalo;1;1;Muito Insatisfeito
+300;31/12/2025;Dezembro;Sarah Lima Fernandes;Fabiana Rodrigues Moraes;Nova Iguaçu;4;4;Satisfeito
