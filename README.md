@@ -1,7 +1,6 @@
 ﻿# Projeto Integrador – Desenvolvimento Low Code em Ciência de Dados
 
- Clique no link para acessar o Dashboard interativo:
- https://projeto-integrador-autoescola-gcvg7ejjyrv4murd2ijgsd.streamlit.app/
+ > **[Clique aqui para acessar o Dashboard Interativo](https://projeto-integrador-autoescola-gcvg7ejjyrv4murd2ijgsd.streamlit.app/)**
 
 ## Repositório
 
